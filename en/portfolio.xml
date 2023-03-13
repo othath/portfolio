@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xslt-param name="lang" value="en"?>
+<!DOCTYPE portfolio SYSTEM "portfolio.dtd">
+<portfolio >
+    <id>
+        <firstName>OTHMANE</firstName>
+        <lastName>TAHRI </lastName>
+        <mail>test@websemantic</mail>
+        <description> FREELANCER BASED IN FRENCH,WORKING ON Projecy for clients
+    ALL OVER THE WORLD,I CAN CREATE THE PERFECT WEBSITE FOR YOU !
+    </description>
+    </id>
+    <about>
+        <information>I am a Full-Stack Web Developer And Web Designer based in  MOROCCO, but working Worldwide
+        I enjoy creating beautifylly designed,intuitive and functional websites!
+        </information>
+        <information>I have diverse set of skills ranging from design to HTML/CSS/JAVASCRIPT ,all the way to PHP
+        </information>
+    </about>
+    <services>
+        <service>
+            <name>WEB DESIGN</name>
+            <description>A new website from the first idea to the successful launch . Together with you I make an appealing UNIQUE design that suits your business.Your Text</description>
+        </service>
+        <service>
+            <name>WEB DEVELOPMENT</name>
+            <description>I Develop websites,unique functional with the latest technologies such as HTML5, CSS3, PHP and more.</description>
+        </service>
+        <service>
+            <name>Maintenance And Support</name>
+            <description>We provide regular evaluations for your website, with relevancy regulation, performance monitoring,semantic source maintenance,
+             to make sure your website is always up to date working for your business aims
+            </description>
+        </service>
+    </services>
+    <skills>
+        <languages>
+            <langage>
+                <name>HTML</name>
+                <level>100%</level>
+            </langage>
+            <langage>
+                <name>CSS</name>
+                <level>90%</level>
+            </langage>   
+            <langage>
+                <name>JAVASCRIPT</name>
+                <level>80%</level>
+            </langage> 
+            <langage>
+                <name>PHP</name>
+                <level>80%</level>
+            </langage>
+            <langage>
+                <name>MySQL</name>
+                <level>90%</level>
+            </langage>   
+            <langage>
+                <name>JAVA</name>
+                <level>80%</level>
+            </langage>   
+            <langage>
+                <name>SemanticWeb</name>
+                <level>20%</level>
+            </langage>    
+        </languages>
+    </skills>
+    <contact>
+        <description>Do you want to create your ideal website? Want to get in touch? Send me an Email: 
+        </description>
+    </contact>
+</portfolio>

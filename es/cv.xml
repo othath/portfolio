@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xslt-param name="lang" value="en"?>
+<!DOCTYPE cv SYSTEM "cv.dtd">
+<cv>
+    <id>
+        <firstName>OTHMANE</firstName>
+        <lastName>TAHRI </lastName>
+        <mail>WS@web.semantic</mail>
+    </id>
+    <about>
+        <information>Soy un desarrollador web Full-Stack y diseñador web con sede en Marruecos, pero trabajando en todo el mundo. ¡Disfruto creando sitios web bellamente diseñados, intuitivos y funcionales!
+        </information>
+        <information>Tengo un conjunto diverso de habilidades que van desde diseño hasta HTML/CSS/JAVASCRIPT, y llegando hasta PHP.</information>
+    </about>
+    <contact>
+        <adress>
+            <num>4</num>
+            <street>Ratio</street>
+            <code>75000</code>
+            <city>PARIS</city>
+        </adress>
+        <mail>othmane@sup.galilee</mail>
+        <linkedIn>TAHRI OTHMANE link</linkedIn>
+    </contact>
+    <skills>
+        <languages>
+            <langage>
+                <name>MySQL</name>
+                <level>90%</level>
+            </langage>   
+            <langage>
+                <name>JAVA</name>
+                <level>80%</level>
+            </langage>   
+            <langage>
+                <name>Semantic Web</name>
+                <level>20%</level>
+            </langage>    
+        </languages>
+    </skills>
+    <education>
+        <formation>
+            <degree>Licenciatura en Ingeniería Informática</degree>
+            <dates>
+                <debut>2022</debut>
+                <fin>2023</fin>
+            </dates>
+            <school>
+                    Sup Galilée - Universidad Paris 13, Villetaneuse
+            </school>
+        </formation>
+        <formation>
+            <degree>Licenciatura en Ingeniería Informática</degree>
+            <dates>
+                <debut>2021</debut>
+                <fin>2022</fin>
+            </dates>
+            <school>
+                    ENSISA - Mulhouse
+            </school>
+        </formation>
+        <formation>
+            <degree>Licenciatura en Ingeniería Informática</degree>
+            <dates>
+                <debut>2020</debut>
+                <fin>2021</fin>
+            </dates>
+            <school>
+                    ENSAO - OUJDA MARRUECOS
+            </school>
+        </formation>
+        <projects>
+            <project type="académico">
+                    <name>Gestión de inventario y pedidos</name>
+                    <description>Implementación de una aplicación web en el lado administrativo para gestionar inventarios y pedidos.</description>
+                    <technologie>Java</technologie>
+                    <technologie>JavaFX</technologie>
+                    <technologie>MySQL</technologie>
+            </project>
+            <project type="académico">
+                    <name>Juego de Mario | Juego de Bombas</name>
+                    <description>Desarrollo de un juego 2D</description>
+                    <technologie>Java</technologie>
+                    <technologie>GreenFoot</technologie>
+            </project>
+            <project type="académico">
+                    <name>Gestión de cuentas bancarias</name>
+                    <description>Aplicación web de GUI para la gestión de cuentas bancarias.</description>
+                    <technologie>CPP</technologie>
+            </project>
+            <project type="académico">
+                    <name>Juego de la vida</name>
+                    <description>Desarrollo del juego de la vida.</description>
+                    <technologie>HTML5</technologie>
+                    <technologie>CSS3</technologie>
+                    <technologie>JAVASCRIPT</technologie>
+                    <technologie>BOOTSTRAP5</technologie>
+                    <technologie>php</technologie>
+            </project>
+            <project type="profesional">
+                    <name>Juego de Damas</name>
+                    <description>Desarrollo de un juego de damas con una interfaz gráfica GTK y la implementación de la IA (método aleatorio siguiendo las reglas del juego).</description>
+                    <technologie>C</technologie>
+            </project>
+        </projects>
+        <interests>
+            <hobby>Lectura</hobby>
+            <sport>Natación</sport>
+            <tacticalGame>Ajedrez</tacticalGame>
+        </interests>
+    </education>
+    </cv>

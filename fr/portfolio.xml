@@ -1,0 +1,62 @@
+<?xslt-param name="lang" value="fr"?>
+<portfolio>
+<id>
+<firstName>OTHMANE</firstName>
+<lastName>TAHRI </lastName>
+<mail>test@websemantic</mail>
+<description> FREELANCER BASÉ EN FRANCE, TRAVAILLANT SUR DES PROJETS POUR DES CLIENTS DU MONDE ENTIER, JE PEUX CRÉER LE SITE WEB PARFAIT POUR VOUS! </description>
+</id>
+<about>
+<information>Je suis un développeur web Full-Stack et designer web basé au MAROC, mais travaillant dans le monde entier. J'aime créer des sites web joliment conçus, intuitifs et fonctionnels! </information>
+<information>J'ai une variété de compétences allant de la conception à HTML/CSS/JAVASCRIPT, jusqu'à PHP </information>
+</about>
+<services>
+<service>
+<name>CONCEPTION WEB</name>
+<description>Un nouveau site web de la première idée au lancement réussi. Avec vous, je crée une conception UNIQUE et attrayante qui convient à votre entreprise. Votre texte</description>
+</service>
+<service>
+<name>DÉVELOPPEMENT WEB</name>
+<description>Je développe des sites web uniques et fonctionnels avec les dernières technologies telles que HTML5, CSS3, PHP et plus encore.</description>
+</service>
+<service>
+<name>MAINTENANCE ET SUPPORT</name>
+<description>Nous fournissons des évaluations régulières pour votre site web, avec une régulation de la pertinence, une surveillance des performances, une maintenance de la source sémantique, pour nous assurer que votre site web est toujours à jour et fonctionne pour les objectifs de votre entreprise. </description>
+</service>
+</services>
+<skills>
+<languages>
+<langage>
+<name>HTML</name>
+<level>100%</level>
+</langage>
+<langage>
+<name>CSS</name>
+<level>90%</level>
+</langage>
+<langage>
+<name>JAVASCRIPT</name>
+<level>80%</level>
+</langage>
+<langage>
+<name>PHP</name>
+<level>80%</level>
+</langage>
+<langage>
+<name>MySQL</name>
+<level>90%</level>
+</langage>
+<langage>
+<name>JAVA</name>
+<level>80%</level>
+</langage>
+<langage>
+<name>Web Sémantique</name>
+<level>20%</level>
+</langage>
+</languages>
+</skills>
+<contact>
+<description>Voulez-vous créer votre site web idéal? Voulez-vous entrer en contact? Envoyez-moi un e-mail: </description>
+</contact>
+</portfolio>

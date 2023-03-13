@@ -1,0 +1,17 @@
+00:00:00.000 --> 00:00:03.000
+Bonjour, dans cette vidéo je vais vous expliquer comment j'ai créé mon site web en utilisant le web sémantique.
+
+00:00:03.000 --> 00:00:08.000
+Tout d'abord, j'ai créé des fichiers XML pour mon CV et mon portfolio, contenant toutes les informations dans des répertoires différents en fonction de la langue.
+
+00:00:08.000 --> 00:00:12.000
+Pour chaque fichier XML, j'ai également créé un fichier DTD correspondant, pour garantir la validité des données.
+
+00:00:12.000 --> 00:00:16.000
+Ensuite, j'ai créé deux fichiers XSLT pour mon CV et mon portfolio, pour transformer les fichiers XML en fichiers HTML valides selon la langue sélectionnée.
+
+00:00:16.000 --> 00:00:21.000
+Enfin, j'ai écrit un script Python pour générer mon premier fichier portfolio en anglais, comme langue par défaut.
+
+00:00:21.000 --> 00:00:25.000
+Et j'ai utilisé un script PHP déclenché par un code JS pour effectuer la transformation en fonction de la langue choisie pour mes fichiers CV et portfolio.

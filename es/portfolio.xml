@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xslt-param name="lang" value="en"?>
+<!DOCTYPE portfolio SYSTEM "portfolio.dtd">
+<portfolio>
+   <id>
+      <firstName>OTHMANE</firstName>
+      <lastName>TAHRI</lastName>
+      <mail>test@websemantic</mail>
+      <description> FREELANCER BASADO EN FRANCÉS, TRABAJANDO EN PROYECTOS PARA CLIENTES EN TODO EL MUNDO, ¡PUEDO CREAR EL SITIO WEB PERFECTO PARA USTED!
+      </description>
+   </id>
+   <about>
+      <information>Soy un Desarrollador Web Full-Stack y Diseñador Web con sede en MARRUECOS, pero trabajo en todo el mundo.
+      ¡Disfruto creando sitios web bellamente diseñados, intuitivos y funcionales!
+      </information>
+      <information>Tengo un conjunto diverso de habilidades que van desde el diseño hasta HTML / CSS / JAVASCRIPT, y PHP.
+      </information>
+   </about>
+   <services>
+      <service>
+         <name>DISEÑO WEB</name>
+         <description>Un nuevo sitio web desde la primera idea hasta el exitoso lanzamiento. Juntos creamos un diseño ÚNICO atractivo que se adapta a su negocio. Su texto
+         </description>
+      </service>
+      <service>
+         <name>DESARROLLO WEB</name>
+         <description>Desarrollo sitios web únicos y funcionales con las últimas tecnologías como HTML5, CSS3, PHP y más.</description>
+      </service>
+      <service>
+         <name>MANTENIMIENTO Y SOPORTE</name>
+         <description>Brindamos evaluaciones regulares para su sitio web, con regulación de relevancia, monitoreo de rendimiento, mantenimiento de fuente semántica, para asegurarnos de que su sitio web siempre esté actualizado y funcionando para los objetivos de su negocio.
+         </description>
+      </service>
+   </services>
+   <skills>
+      <languages>
+         <langage>
+            <name>HTML</name>
+            <level>100%</level>
+         </langage>
+         <langage>
+            <name>CSS</name>
+            <level>90%</level>
+         </langage>
+         <langage>
+            <name>JAVASCRIPT</name>
+            <level>80%</level>
+         </langage>
+         <langage>
+            <name>PHP</name>
+            <level>80%</level>
+         </langage>
+         <langage>
+            <name>MySQL</name>
+            <level>90%</level>
+         </langage>
+         <langage>
+            <name>JAVA</name>
+            <level>80%</level>
+         </langage>
+         <langage>
+            <name>Web Semántica</name>
+            <level>20%</level>
+         </langage>
+      </languages>
+   </skills>
+   <contact>
+      <description>¿Quieres crear tu sitio web ideal? ¿Quieres ponerte en contacto? Envíame un correo electrónico:
+      </description>
+   </contact>
+</portfolio>

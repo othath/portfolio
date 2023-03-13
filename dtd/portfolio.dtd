@@ -1,0 +1,16 @@
+<!ELEMENT portfolio (id, description, about, services, skills, contact)>
+<!ELEMENT id (firstName, lastName, mail,description)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT about (information+)>
+<!ELEMENT information (#PCDATA)>
+<!ELEMENT services (service+)>
+<!ELEMENT service (name, description)>
+<!ELEMENT skills (languages)>
+<!ELEMENT languages (langage+)>
+<!ELEMENT langage (name, level)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT level (#PCDATA)>
+<!ELEMENT contact (description)>
+<!ELEMENT description (#PCDATA)>

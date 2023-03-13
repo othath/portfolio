@@ -1,0 +1,133 @@
+<cv  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:schema="http://schema.org/">
+    <id>
+        <firstName>OTHMANE</firstName>
+        <lastName>TAHRI </lastName>
+        <mail>WS@web.semantic</mail>
+    </id>
+    <about>
+        <information>Je suis un développeur web Full-Stack et designer basé au MAROC, mais travaillant à l'échelle
+            mondiale. J'aime créer des sites web intuitifs, fonctionnels et magnifiquement conçus!</information>
+        <information>J'ai une variété de compétences allant du design à HTML/CSS/JAVASCRIPT, jusqu'à PHP.</information>
+    </about>
+    <contact>
+        <adress>
+            <num>4</num>
+            <street>Ratio</street>
+            <code>75000</code>
+            <city>PARIS</city>
+        </adress>
+        <mail>othmane@sup.galilee</mail>
+        <linkedIn>Lien TAHRI OTHMANE</linkedIn>
+    </contact>
+    <skills>
+        <languages>
+            <langage>
+                <name>C</name>
+                <level>70%</level>
+            </langage>
+            <langage>
+                <name>CPP</name>
+                <level>70%</level>
+            </langage>
+            <langage>
+                <name>HTML</name>
+                <level>100%</level>
+            </langage>
+            <langage>
+                <name>CSS</name>
+                <level>90%</level>
+            </langage>
+            <langage>
+                <name>JAVASCRIPT</name>
+                <level>80%</level>
+            </langage>
+            <langage>
+                <name>PHP</name>
+                <level>80%</level>
+            </langage>
+            <langage>
+                <name>MySQL</name>
+                <level>90%</level>
+            </langage>
+            <langage>
+                <name>JAVA</name>
+                <level>80%</level>
+            </langage>
+            <langage>
+                <name>Web sémantique</name>
+                <level>20%</level>
+            </langage>
+        </languages>
+    </skills>
+    <education>
+        <formation>
+            <degree>Diplôme d'ingénieur en informatique</degree>
+            <dates>
+                <debut>2022</debut>
+                <fin>2023</fin>
+            </dates>
+            <school> Sup Galilée - Université Paris 13, Villetaneuse </school>
+        </formation>
+        <formation>
+            <degree>Diplôme d'ingénieur en informatique</degree>
+            <dates>
+                <debut>2021</debut>
+                <fin>2022</fin>
+            </dates>
+            <school> ENSISA - Mulhouse </school>
+        </formation>
+        <formation>
+            <degree>Diplôme d'ingénieur en informatique</degree>
+            <dates>
+                <debut>2020</debut>
+                <fin>2021</fin>
+            </dates>
+            <school> ENSAO - OUJDA MAROC </school>
+        </formation>
+        <projects>
+            <project type="academic">
+                <name>Inventory and Order Management</name>
+                <description>Implémentation d'une application web côté administration pour gérer les stocks et les
+                    commandes.</description>
+                <technologie>Java</technologie>
+                <technologie>JavaFX</technologie>
+                <technologie>MySQL</technologie>
+            </project>
+            <project type="academic">
+                <name>Mario Game | Game Of Bombs</name>
+                <description>Développement d'un jeu 2D</description>
+                <technologie>Java</technologie>
+                <technologie>GreenFoot</technologie>
+            </project>
+            <project type="academic">
+                <name>Gestion de compte bancaire</name>
+                <description>Application Web d'interface graphique pour gérer des comptes bancaires.</description>
+                <technologie>CPP</technologie>
+            </project>
+            <project type="academic">
+                <name>Le Jeu de la Vie</name>
+                <description>Développement du Jeu de la Vie.</description>
+                <technologie>HTML5</technologie>
+                <technologie>CSS3</technologie>
+                <technologie>JAVASCRIPT</technologie>
+                <technologie>BOOTSTRAP5</technologie>
+                <technologie>php</technologie>
+            </project>
+            <project type="professional">
+                <name>Jeu de dames</name>
+                <description>Développement d'un jeu de dames avec une interface graphique GTK et l'implémentation de
+                    l'IA (méthode aléatoire suivant les règles du jeu).</description>
+                <technologie>C</technologie>
+            </project>
+        </projects>
+        <interests>
+            <hobby>Lecture</hobby>
+            <sport>Natation</sport>
+            <tacticalGame>Échecs</tacticalGame>
+        </interests>
+    </education>
+</cv>

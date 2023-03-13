@@ -1,0 +1,35 @@
+<!ELEMENT cv (id, about, contact, skills, education)>
+<!ELEMENT id (firstName, lastName, mail)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT about (information+)>
+<!ELEMENT information (#PCDATA)>
+<!ELEMENT contact (adress, mail, linkedIn)>
+<!ELEMENT adress (num, street, code, city)>
+<!ELEMENT num (#PCDATA)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT linkedIn (#PCDATA)>
+<!ELEMENT skills (languages)>
+<!ELEMENT languages (langage+)>
+<!ELEMENT langage (name, level)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT level (#PCDATA)>
+<!ELEMENT education (formation+, projects, interests)>
+<!ELEMENT formation (degree, dates, school)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT dates (debut, fin)>
+<!ELEMENT debut (#PCDATA)>
+<!ELEMENT fin (#PCDATA)>
+<!ELEMENT school (#PCDATA)>
+<!ELEMENT projects (project+)>
+<!ELEMENT project (name, description, technologie+)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST project type (academic | professional) "academic">
+<!ELEMENT technologie (#PCDATA)>
+<!ELEMENT interests (hobby, sport, tacticalGame)>
+<!ELEMENT hobby (#PCDATA)>
+<!ELEMENT sport (#PCDATA)>
+<!ELEMENT tacticalGame (#PCDATA)>
